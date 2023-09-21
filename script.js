@@ -11,7 +11,7 @@ document.getElementById("prototipoFuncional").addEventListener("click", function
 });
 
 document.getElementById("verRevista").addEventListener("click", function () {
-    let url = "https://soysena-my.sharepoint.com/:b:/g/personal/esrivera72_soy_sena_edu_co/EYPvKc-SAgVIh9ALXcuF6nEB2nP7vwda4GI7M_yGuaKcXw?e=IBHp1T";
+    let url = "https://heyzine.com/flip-book/43c81fdfc2.html";
     ventana(url);
 });
 

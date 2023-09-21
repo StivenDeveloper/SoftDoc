@@ -100,3 +100,20 @@ footer {
     display: flex;
     align-items: center;
   }
+
+  /* Media query para hacer el logo más pequeño en pantallas más pequeñas */
+@media (max-width: 768px) {
+    .logo {
+        width: 150px;
+        height: 150px;
+        left: 5%;
+        top: 1%;
+    }
+}
+
+/* Media query para ajustar el tamaño del encabezado en pantallas más pequeñas */
+@media (max-width: 768px) {
+    header {
+        font-size: 120%;
+    }
+}
